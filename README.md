@@ -2,6 +2,7 @@
 A simple Railway Ticket Reservation Application using java. A command-line application that helps in booking and tracking passenger 
 tickets against seat numbers.
 Technology used: Java and oops.
+
 1.![Screenshot (65)](https://github.com/sviswas/Railway_ticket_reservation/assets/115649646/1ddede85-84a8-4817-972d-cb0a3b1d289d)
 -->we are giving train name as express and number of tickets that we want to reserve and we are giving passenger details, and while giving passenger details there should not be repetition of passenger name in same train. At final it displays the train name and passenger details along with their seat numbers and number of tickets left remaining.
 
